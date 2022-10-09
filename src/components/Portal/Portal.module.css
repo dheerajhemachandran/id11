@@ -1,0 +1,106 @@
+.display{
+    margin:43px 151px 0px 0px;
+    height: 256px;
+    padding: 22px 68px 22px 43px;
+    background: #E9EBF4;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.measure{
+    width: 313px;
+    display: flex;
+    flex-direction: column;
+}
+
+.portal{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 56px;
+/* or 117% */
+
+
+color: #000000;
+}
+
+.sub{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* or 125% */
+
+
+/* Blacks/Darker grey */
+
+color: #6D747A;
+}
+
+.display button{
+
+background: #CED4DA;
+border-radius: 4px;font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+border: 0;
+padding: 4px 8px;
+margin-right: 12px;
+color: #08090A;
+}
+
+.value{
+    font-family: 'Hind';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+color: #283891;
+}
+
+.commited{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+margin-left: 14px;
+margin-right: 5.5px;
+color: #6D747A;
+}
+
+.percent{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 18px;
+color: #08090A;
+}
+
+.percent span{
+    color: #6D747A;
+}
+
+.investment{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+color: #6D747A;
+}
+
+.values{
+    font-family: 'Hind';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 40px;
+color: #08090A;
+}
